@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7FB9986B-3659-7610-DB3A-22E99410D524}</ProjectGuid>
+    <ProjectGuid>{BE250F3E-1898-EB79-1769-BA0328FD4A0E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\CameraController.cs" />
      <Compile Include="Assets\scripts\CountdownTimer.cs" />
+     <Compile Include="Assets\scripts\Exit.cs" />
      <Compile Include="Assets\scripts\Lap.cs" />
      <Compile Include="Assets\scripts\Menu.cs" />
      <Compile Include="Assets\scripts\PlaterController.cs" />
